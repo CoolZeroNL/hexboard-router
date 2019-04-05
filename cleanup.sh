@@ -11,3 +11,4 @@ oc delete configmaps nginx-default.d
 oc delete configmaps nginx-config
 oc delete pvc nginx-root
 oc delete route hexboard-router
+oc delete route hexboard-router-m2
